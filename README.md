@@ -1,7 +1,7 @@
 # ChatBot-Python
 Chat Bot developed with Python language, with API for Telegram and Json storage!
 
-Criação simples, porém funcinal, para ultilizar vc precisa instalar  algumas dependecias e preparar o hambiante da maquina.
+Criação simples, porém funcional, para ultilizar vc precisa instalar  algumas dependecias e preparar o hambiante da maquina.
 
 
 Objetivo geral: Mostrar competência na área! 
